@@ -1,0 +1,1 @@
+{"name":"Local: newfile","url":"d:\\SC-B-4\\Live Class 5 Nov 21, 2024\\newfile.py","tests":[{"id":1732817314834,"input":"1\n4\n20 1 9 4","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SC-B-4\\Live Class 5 Nov 21, 2024\\newfile.py","group":"local","local":true}
